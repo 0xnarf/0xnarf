@@ -8,7 +8,7 @@
 FranXo = {
     'location': 'Guadalajara, Spain',
     'nick': 'FranXo || 0xnarf',
-    'studies0': 'Telecommunications Engineering, Cybersecurity',
+    'studies': 'Telecommunications Engineering, Cybersecurity',
     'interests':  'Cybersecurity, CTF, Physics',
 }
 ```
